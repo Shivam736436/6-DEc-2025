@@ -1,0 +1,1 @@
+print("aaj to sare concept clear kar dunga python ke")
